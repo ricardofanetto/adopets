@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshots
-![alt text](https://pasteboard.co/IOpAWP2.png)
-![alt text](https://pasteboard.co/IOpBza7.png)
+![alt text](https://i.imgur.com/LpcGRgM.png)
+![alt text](https://i.imgur.com/FLmMrhR.png)
 
 ## Available Scripts
 
